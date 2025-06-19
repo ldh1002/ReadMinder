@@ -53,8 +53,3 @@ open ios/Runner.xcworkspace
 ## 📸 스크린샷 
 ![image](https://github.com/user-attachments/assets/209ecb97-a32a-4f96-9037-de69c1e619e6)
 
-
-## 📄 라이선스
-
-MIT License  
-© 2025 ReadMinder Team
