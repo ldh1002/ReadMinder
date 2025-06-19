@@ -50,9 +50,9 @@ open ios/Runner.xcworkspace
 - 다크 모드 개선 및 글꼴 크기 설정 연동
 - 백업/복원 기능 완전 구현
 
-## 📸 스크린샷 (예시)
+## 📸 스크린샷 
+![image](https://github.com/user-attachments/assets/209ecb97-a32a-4f96-9037-de69c1e619e6)
 
-> 향후 스크린샷 또는 동영상이 여기에 추가될 수 있습니다.
 
 ## 📄 라이선스
 
